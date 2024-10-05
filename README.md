@@ -18,6 +18,11 @@ This project is a responsive web-based landing page built using **HTML**, **CSS*
 - **CSS3** for styling and creating responsive layouts with media queries and animations.
 - **JavaScript** for adding interactivity and handling user interactions.
 
+## Preview
+![Screenshot (32)](https://github.com/user-attachments/assets/99f9b608-d652-49a9-b34d-25556fc8c67a)
+![Screenshot (33)](https://github.com/user-attachments/assets/56b9fced-c12c-4c1f-98c6-fe5bbef7054f)
+
+
 
 ## Future Improvements
 
